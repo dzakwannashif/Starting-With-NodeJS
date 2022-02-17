@@ -1,0 +1,6 @@
+1. buatlah server dengan nama variable dengan nama antum & import http dengan nama antum
+
+2. buat respon halaman home, about, form 404 not found (case, ifelse)
+
+3. buat respon mengirim data
+"anda berhasil menambahkan data" jika methodnya POST
